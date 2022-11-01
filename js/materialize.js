@@ -7254,7 +7254,7 @@ var $jscomp$this = this;
                             start = this.percentOpen;
                         } else {
                             $(this._overlay).css({
-                                display: "block",
+                                display: "none",
                             });
                         }
 
